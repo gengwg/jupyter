@@ -1,6 +1,6 @@
 # jupyter
 
-Installation On Mac:
+## Installation On Mac
 
 ```
 gengwg@gengwg-mbp:~$ python3 -m venv jupyter-venv3
@@ -17,3 +17,11 @@ start the Notebook using a custom IP or port:
 ```
 jupyter notebook --port 9999
 ```
+
+## Shortcuts
+
+| Shortcut    | Action                 |
+|-------------|------------------------|
+| Shift-Enter | run cell               |
+| Ctrl-Enter  | run cell in-place      |
+| Alt-Enter   | run cell, insert below |
